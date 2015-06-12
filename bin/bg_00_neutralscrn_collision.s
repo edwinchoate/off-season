@@ -65631,6 +65631,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -65639,6 +65647,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -65647,6 +65663,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -65655,6 +65679,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -65663,6 +65695,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -66103,6 +66143,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -66111,6 +66159,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -66119,6 +66175,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -66127,6 +66191,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -66135,6 +66207,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -66575,6 +66655,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -66583,6 +66671,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -66591,6 +66687,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -66599,6 +66703,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -66607,6 +66719,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67047,6 +67167,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67055,6 +67183,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67063,6 +67199,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67071,6 +67215,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67079,6 +67231,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67519,6 +67679,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67527,6 +67695,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67535,6 +67711,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67543,6 +67727,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67551,6 +67743,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67991,6 +68191,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -67999,6 +68207,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68007,6 +68223,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68015,6 +68239,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68023,6 +68255,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68463,6 +68703,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68471,6 +68719,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68479,6 +68735,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68487,6 +68751,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68495,6 +68767,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68935,6 +69215,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68943,6 +69231,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68951,6 +69247,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68959,6 +69263,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -68967,6 +69279,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -69415,6 +69735,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -69423,6 +69751,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -69431,6 +69767,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -69439,6 +69783,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -69447,6 +69799,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -69887,6 +70247,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -69895,6 +70263,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -69903,6 +70279,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -69911,6 +70295,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -69919,6 +70311,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -70359,6 +70759,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -70367,6 +70775,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -70375,6 +70791,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -70383,6 +70807,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -70391,6 +70823,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -70831,6 +71271,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -70839,6 +71287,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -70847,6 +71303,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -70855,6 +71319,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -70863,6 +71335,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -71303,6 +71783,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -71311,6 +71799,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -71319,6 +71815,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -71327,6 +71831,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -71335,6 +71847,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -71775,6 +72295,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -71783,6 +72311,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -71791,6 +72327,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -71799,6 +72343,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -71807,6 +72359,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -72247,6 +72807,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -72255,6 +72823,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -72263,6 +72839,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -72271,6 +72855,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -72279,6 +72871,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -72719,6 +73319,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -72727,6 +73335,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -72735,6 +73351,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -72743,6 +73367,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734
@@ -72751,646 +73383,14 @@ bg_00_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
-	.short	32734
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
+	.short	26425
 	.short	32734
 	.short	32734
 	.short	32734

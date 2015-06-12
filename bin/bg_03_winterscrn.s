@@ -81,38 +81,38 @@ bg_03_winterscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
-	.short	20303
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30584
 	.short	-30584
 	.short	-30584
@@ -2564,9 +2564,9 @@ bg_03_winterscrnPal:
 	.short	32659
 	.short	30360
 	.short	17374
-	.short	32695
-	.short	31450
-	.short	18431
+	.short	28401
+	.short	25108
+	.short	13113
 	.short	0
 	.short	0
 	.short	0

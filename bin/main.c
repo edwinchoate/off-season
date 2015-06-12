@@ -24,16 +24,6 @@
 #include "bg_00_summerscrn_collision.h"
 #include "bg_00_fallscrn_collision.h"
 #include "bg_00_winterscrn_collision.h"
-#include "bg_01_neutralscrn.h"
-#include "bg_01_springscrn.h"
-#include "bg_01_summerscrn.h"
-#include "bg_01_fallscrn.h"
-#include "bg_01_winterscrn.h"
-#include "bg_01_neutralscrn_collision.h"
-#include "bg_01_springscrn_collision.h"
-#include "bg_01_summerscrn_collision.h"
-#include "bg_01_fallscrn_collision.h"
-#include "bg_01_winterscrn_collision.h"
 #include "bg_02_neutralscrn.h"
 #include "bg_02_springscrn.h"
 #include "bg_02_summerscrn.h"
@@ -132,7 +122,7 @@
 #include "bg_final_collision.h"
 
 
-#define NUMLEVELS 12
+#define NUMLEVELS 11
 
 // Game States
 enum {SPLASH, INSTRUCTIONS, GAME, SEASONCHANGE, PAUSE, LOSE, WINLEVEL, GAMEEND};
@@ -408,7 +398,7 @@ void setupGame() {
 
 	season = NEUTRAL;
 
-	currentLevel = 0;
+	currentLevel = 1;
 
 	setupLevel();
 
@@ -418,8 +408,11 @@ void setupGame() {
 void setupLevel() {
 
 	// Level 0 is the only one that starts in NEUTRAL season
-	if (currentLevel < 1 || (currentLevel > (NUMLEVELS - 2))) {
+	if (currentLevel <= 1) {
 		season = NEUTRAL;
+	}
+	else if (currentLevel > (NUMLEVELS - 1)) {
+		season = SPRING;
 	}
 	// Each level starts at an incrementally different season
 	else {
@@ -444,7 +437,7 @@ void setupLevel() {
 
 	switch (currentLevel) {
 
-		case 0:
+		case 1:
 
 			// DMA background 2 
 			loadPalette(bg_00_neutralscrnPal);
@@ -457,20 +450,6 @@ void setupLevel() {
 
 			vOff = 0;
 			hOff = 0;
-
-		break;
-
-		case 1:
-
-			loadPalette(bg_01_summerscrnPal);
-			DMANow(3, bg_01_summerscrnMap, &SCREENBLOCKBASE[28], bg_00_summerscrnMapLen / 2);
-		  	DMANow(3, bg_01_summerscrnTiles, &CHARBLOCKBASE[2], bg_00_summerscrnTilesLen / 2);
-
-		  	player.row = 5;
-		  	player.col = 112;
-
-		  	vOff = 0;
-		  	hOff = 104;
 
 		break;
 
@@ -602,9 +581,9 @@ void setupLevel() {
 
 		case 11:
 
-			loadPalette(bg_final_neutralscrnPal);
-			DMANow(3, bg_final_neutralscrnMap, &SCREENBLOCKBASE[28], bg_final_neutralscrnMapLen / 2);
-			DMANow(3, bg_final_neutralscrnTiles, &CHARBLOCKBASE[2], bg_final_neutralscrnTilesLen / 2);
+			loadPalette(bg_final_springscrnPal);
+			DMANow(3, bg_final_springscrnMap, &SCREENBLOCKBASE[28], bg_final_springscrnMapLen / 2);
+			DMANow(3, bg_final_springscrnTiles, &CHARBLOCKBASE[2], bg_final_springscrnTilesLen / 2);
 
 			player.row = 30;
 			player.col = 10;
@@ -1002,16 +981,10 @@ void seasonChange() {
 
 			switch (currentLevel) {
 
-				case 0:
+				case 1:
 					loadPalette(bg_00_neutralscrnPal);
 				  	DMANow(3, bg_00_neutralscrnMap, &SCREENBLOCKBASE[28], bg_00_neutralscrnMapLen / 2);
 				  	DMANow(3, bg_00_neutralscrnTiles, &CHARBLOCKBASE[2], bg_00_neutralscrnTilesLen / 2);
-				break;
-
-				case 1:
-					loadPalette(bg_01_neutralscrnPal);
-				  	DMANow(3, bg_01_neutralscrnMap, &SCREENBLOCKBASE[28], bg_01_neutralscrnMapLen / 2);
-				  	DMANow(3, bg_01_neutralscrnTiles, &CHARBLOCKBASE[2], bg_01_neutralscrnTilesLen / 2);
 				break;
 
 				case 2:
@@ -1082,16 +1055,10 @@ void seasonChange() {
 
 			switch (currentLevel) {
 
-				case 0:
+				case 1:
 					loadPalette(bg_00_springscrnPal);
 				  	DMANow(3, bg_00_springscrnMap, &SCREENBLOCKBASE[28], bg_00_springscrnMapLen / 2);
 				  	DMANow(3, bg_00_springscrnTiles, &CHARBLOCKBASE[2], bg_00_springscrnTilesLen / 2);
-				break;
-
-				case 1:
-					loadPalette(bg_01_springscrnPal);
-				  	DMANow(3, bg_01_springscrnMap, &SCREENBLOCKBASE[28], bg_01_springscrnMapLen / 2);
-				  	DMANow(3, bg_01_springscrnTiles, &CHARBLOCKBASE[2], bg_01_springscrnTilesLen / 2);
 				break;
 
 				case 2:
@@ -1163,16 +1130,10 @@ void seasonChange() {
 
 			switch (currentLevel) {
 
-				case 0:
+				case 1:
 					loadPalette(bg_00_summerscrnPal);
 				  	DMANow(3, bg_00_summerscrnMap, &SCREENBLOCKBASE[28], bg_00_summerscrnMapLen / 2);
 				  	DMANow(3, bg_00_summerscrnTiles, &CHARBLOCKBASE[2], bg_00_summerscrnTilesLen / 2);
-				break;
-
-				case 1:
-					loadPalette(bg_01_summerscrnPal);
-				  	DMANow(3, bg_01_summerscrnMap, &SCREENBLOCKBASE[28], bg_01_summerscrnMapLen / 2);
-				  	DMANow(3, bg_01_summerscrnTiles, &CHARBLOCKBASE[2], bg_01_summerscrnTilesLen / 2);
 				break;
 
 				case 2:
@@ -1250,16 +1211,10 @@ void seasonChange() {
 
 			switch (currentLevel) {
 
-				case 0:
+				case 1:
 					loadPalette(bg_00_fallscrnPal);
 				  	DMANow(3, bg_00_fallscrnMap, &SCREENBLOCKBASE[28], bg_00_fallscrnMapLen / 2);
 				  	DMANow(3, bg_00_fallscrnTiles, &CHARBLOCKBASE[2], bg_00_fallscrnTilesLen / 2);
-				break;
-
-				case 1:
-					loadPalette(bg_01_fallscrnPal);
-					DMANow(3, bg_01_fallscrnMap, &SCREENBLOCKBASE[28], bg_01_fallscrnMapLen / 2);
-				  	DMANow(3, bg_01_fallscrnTiles, &CHARBLOCKBASE[2], bg_01_fallscrnTilesLen / 2);
 				break;
 
 				case 2:
@@ -1337,16 +1292,10 @@ void seasonChange() {
 
 			switch (currentLevel) {
 
-				case 0:
+				case 1:
 					loadPalette(bg_00_winterscrnPal);
 				  	DMANow(3, bg_00_winterscrnMap, &SCREENBLOCKBASE[28], bg_00_winterscrnMapLen / 2);
 				  	DMANow(3, bg_00_winterscrnTiles, &CHARBLOCKBASE[2], bg_00_winterscrnTilesLen / 2);
-				break;
-
-				case 1:
-					loadPalette(bg_01_winterscrnPal);
-					DMANow(3, bg_01_winterscrnMap, &SCREENBLOCKBASE[28], bg_01_winterscrnMapLen / 2);
-				  	DMANow(3, bg_01_winterscrnTiles, &CHARBLOCKBASE[2], bg_01_winterscrnTilesLen / 2);
 				break;
 
 				case 2:
@@ -1472,17 +1421,9 @@ int checkCollision() {
 
 			switch (currentLevel) {
 
-				case 0:
-
-					if (bg_00_neutralscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
-						return 1;
-					}
-
-				break;
-
 				case 1:
 
-					if (bg_01_neutralscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
+					if (bg_00_neutralscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
 						return 1;
 					}
 
@@ -1576,17 +1517,9 @@ int checkCollision() {
 
 			switch (currentLevel) {
 
-				case 0:
-
-					if (bg_00_springscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
-						return 1;
-					}
-
-				break;
-
 				case 1:
 
-					if (bg_01_springscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
+					if (bg_00_springscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
 						return 1;
 					}
 
@@ -1672,17 +1605,9 @@ int checkCollision() {
 
 			switch (currentLevel) {
 
-				case 0:
-
-					if (bg_00_summerscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
-						return 1;
-					}
-
-				break;
-
 				case 1:
 
-					if (bg_01_summerscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
+					if (bg_00_summerscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
 						return 1;
 					}
 
@@ -1768,19 +1693,12 @@ int checkCollision() {
 
 			switch (currentLevel) {
 
-				case 0:
+				case 1:
 
 					if (bg_00_fallscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
 						return 1;
 					}
 
-				break;
-
-				case 1:
-
-					if (bg_01_fallscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
-						return 1;
-					}
 
 				break;
 
@@ -1865,17 +1783,9 @@ int checkCollision() {
 
 			switch (currentLevel) {
 
-				case 0:
-
-					if (bg_00_winterscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
-						return 1;
-					}
-
-				break;
-
 				case 1:
 
-					if (bg_01_winterscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
+					if (bg_00_winterscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == BLACK) {
 						return 1;
 					}
 
@@ -1971,14 +1881,6 @@ int checkWinCollision() {
 		case NEUTRAL:
 
 			switch (currentLevel) {
-
-				case 1:
-
-					if (bg_01_neutralscrn_collisionBitmap[OFFSET(player.bigRow + player.height + 1, player.bigCol + 8, 512)] == RED) {
-						return 1;
-					}
-
-				break;
 
 				case 2:
 
@@ -2100,14 +2002,6 @@ int checkWinCollision() {
 
 			switch (currentLevel) {
 
-				case 1:
-
-					if (bg_01_summerscrn_collisionBitmap[OFFSET(player.bigRow + 8, player.bigCol + 8, 512)] == RED) {
-						return 1;
-					}
-
-				break;
-
 				case 11:
 
 					if (bg_final_collisionBitmap[OFFSET(player.bigRow + 8, player.bigCol + 8, 512)] == RED) {
@@ -2172,7 +2066,7 @@ int checkWinCollision() {
 
 			switch (currentLevel) {
 
-				case 0:
+				case 1:
 
 					if (bg_00_winterscrn_collisionBitmap[OFFSET(player.bigRow + 8, player.bigCol + 8, 512)] == RED) {
 						return 1;
@@ -2237,7 +2131,7 @@ void winLevel() {
 
 		if (BUTTON_PRESSED(BUTTON_A)) {
 
-			if (currentLevel + 1 < NUMLEVELS) {
+			if (currentLevel + 1 <= NUMLEVELS) {
 
 				currentLevel++;
 				init();

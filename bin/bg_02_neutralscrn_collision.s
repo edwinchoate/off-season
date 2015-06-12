@@ -32887,22 +32887,21 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -33303,6 +33302,7 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -33327,21 +33327,6 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	31
 	.short	31
 	.short	31
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
 	.short	0
 	.short	0
 	.short	0
@@ -33414,7 +33399,21 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -33815,6 +33814,7 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -33839,20 +33839,6 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	31
 	.short	31
 	.short	31
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
 	.short	0
 	.short	0
 	.short	0
@@ -33925,8 +33911,20 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -34327,6 +34325,8 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -34335,22 +34335,6 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
 	.short	0
 	.short	0
 	.short	0
@@ -34439,6 +34423,20 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -34839,6 +34837,8 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -34847,22 +34847,6 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
 	.short	0
 	.short	0
 	.short	0
@@ -34951,6 +34935,19 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -35351,6 +35348,9 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -35359,22 +35359,6 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
 	.short	0
 	.short	0
 	.short	0
@@ -35463,6 +35447,19 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -35863,6 +35860,9 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -35871,22 +35871,6 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
 	.short	0
 	.short	0
 	.short	0
@@ -35975,6 +35959,19 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -36375,6 +36372,9 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -36383,22 +36383,6 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
-	.short	31
 	.short	0
 	.short	0
 	.short	0
@@ -36887,22 +36871,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	24311
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -37399,22 +37383,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -37911,22 +37895,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -38423,22 +38407,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -38935,22 +38919,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -39447,22 +39431,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	13741
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	13741
@@ -39959,22 +39943,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	13741
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	13741
 	.short	15855
@@ -40471,22 +40455,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	13741
 	.short	13741
@@ -40583,6 +40567,16 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	13741
 	.short	13741
 	.short	13741
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -41095,22 +41089,12 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -41607,22 +41591,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -42119,22 +42103,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -42631,22 +42615,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -43143,22 +43127,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -43655,22 +43639,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -44167,22 +44151,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -44679,22 +44663,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -44727,6 +44711,17 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -45191,22 +45186,11 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	24311
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -45703,22 +45687,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -46215,22 +46199,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -46727,22 +46711,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -47239,22 +47223,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -47751,22 +47735,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	13741
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	13741
@@ -48263,22 +48247,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	13741
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	13741
 	.short	15855
@@ -48775,22 +48759,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	13741
 	.short	13741
@@ -48823,6 +48807,18 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	13741
 	.short	13741
 	.short	13741
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -49335,22 +49331,10 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -49847,22 +49831,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -50359,22 +50343,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -50871,22 +50855,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -51383,22 +51367,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -51895,22 +51879,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -52407,22 +52391,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -52919,22 +52903,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -52967,6 +52951,19 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -53431,22 +53428,9 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	24311
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -53943,22 +53927,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -54455,22 +54439,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -54967,22 +54951,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -55479,22 +55463,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -55991,22 +55975,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	13741
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	13741
@@ -56503,22 +56487,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	13741
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	13741
 	.short	15855
@@ -57015,22 +56999,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	13741
 	.short	13741
@@ -57063,6 +57047,20 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	13741
 	.short	13741
 	.short	13741
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -57575,22 +57573,8 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -58087,22 +58071,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -58599,22 +58583,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -59111,22 +59095,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -59623,22 +59607,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -60135,22 +60119,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -60647,22 +60631,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -61159,22 +61143,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
-	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	0
 	.short	0
 	.short	0
@@ -61207,6 +61191,21 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	0
 	.short	0
 	.short	0
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734
@@ -61671,22 +61670,7 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	24311
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -62183,22 +62167,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -62695,22 +62679,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	24311
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -63207,22 +63191,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	19026
-	.short	28539
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -63719,22 +63703,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	14798
-	.short	21140
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	15855
@@ -64231,22 +64215,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	15855
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	13741
-	.short	21140
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	15855
 	.short	13741
@@ -64743,22 +64727,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	13741
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	15855
-	.short	13741
-	.short	24311
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	13741
 	.short	15855
@@ -65255,22 +65239,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	32734
 	.short	32734
 	.short	32734
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
-	.short	13741
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	13741
 	.short	13741
 	.short	13741
@@ -65303,6 +65287,22 @@ bg_02_neutralscrn_collisionBitmap:
 	.short	13741
 	.short	13741
 	.short	13741
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
+	.short	32734
 	.short	32734
 	.short	32734
 	.short	32734

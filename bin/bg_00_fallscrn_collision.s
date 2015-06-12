@@ -73823,14 +73823,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -73839,14 +73839,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -73855,14 +73855,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -73871,14 +73871,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -73887,14 +73887,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -74335,14 +74335,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -74351,14 +74351,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -74367,14 +74367,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -74383,14 +74383,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -74399,14 +74399,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -74847,14 +74847,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -74863,14 +74863,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -74879,14 +74879,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -74895,14 +74895,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -74911,14 +74911,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -75359,14 +75359,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -75375,14 +75375,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -75391,14 +75391,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -75407,14 +75407,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -75423,14 +75423,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -75871,14 +75871,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -75887,14 +75887,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -75903,14 +75903,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -75919,14 +75919,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -75935,14 +75935,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -76383,14 +76383,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -76399,14 +76399,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -76415,14 +76415,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -76431,14 +76431,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -76447,14 +76447,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -76895,14 +76895,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -76911,14 +76911,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -76927,14 +76927,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -76943,14 +76943,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -76959,14 +76959,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -77407,14 +77407,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -77423,14 +77423,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -77439,14 +77439,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -77455,14 +77455,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -77471,14 +77471,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -77927,14 +77927,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -77943,14 +77943,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -77959,14 +77959,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -77975,14 +77975,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -77991,14 +77991,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -78439,14 +78439,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -78455,14 +78455,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -78471,14 +78471,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -78487,14 +78487,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -78503,14 +78503,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -78951,14 +78951,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -78967,14 +78967,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -78983,14 +78983,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -78999,14 +78999,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -79015,14 +79015,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -79463,14 +79463,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -79479,14 +79479,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -79495,14 +79495,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -79511,14 +79511,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -79527,14 +79527,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -79975,14 +79975,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -79991,14 +79991,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -80007,14 +80007,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -80023,14 +80023,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -80039,14 +80039,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -80487,14 +80487,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -80503,14 +80503,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -80519,14 +80519,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -80535,14 +80535,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -80551,14 +80551,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -80999,14 +80999,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -81015,14 +81015,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -81031,14 +81031,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -81047,14 +81047,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -81063,14 +81063,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -81511,14 +81511,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -81527,14 +81527,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -81543,14 +81543,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -81559,14 +81559,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360
@@ -81575,14 +81575,14 @@ bg_00_fallscrn_collisionBitmap:
 	.short	30360
 	.short	30360
 	.short	30360
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
-	.short	31450
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
+	.short	25108
 	.short	30360
 	.short	30360
 	.short	30360

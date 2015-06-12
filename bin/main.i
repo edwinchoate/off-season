@@ -183,7 +183,7 @@ extern const unsigned short bg_fallPal[256];
 # 17 "main.c" 2
 # 1 "bg_00_neutralscrn.h" 1
 # 22 "bg_00_neutralscrn.h"
-extern const unsigned short bg_00_neutralscrnTiles[192];
+extern const unsigned short bg_00_neutralscrnTiles[1920];
 
 
 extern const unsigned short bg_00_neutralscrnMap[2048];
@@ -193,7 +193,7 @@ extern const unsigned short bg_00_neutralscrnPal[256];
 # 18 "main.c" 2
 # 1 "bg_00_springscrn.h" 1
 # 22 "bg_00_springscrn.h"
-extern const unsigned short bg_00_springscrnTiles[416];
+extern const unsigned short bg_00_springscrnTiles[2432];
 
 
 extern const unsigned short bg_00_springscrnMap[2048];
@@ -203,7 +203,7 @@ extern const unsigned short bg_00_springscrnPal[256];
 # 19 "main.c" 2
 # 1 "bg_00_summerscrn.h" 1
 # 22 "bg_00_summerscrn.h"
-extern const unsigned short bg_00_summerscrnTiles[224];
+extern const unsigned short bg_00_summerscrnTiles[1792];
 
 
 extern const unsigned short bg_00_summerscrnMap[2048];
@@ -213,7 +213,7 @@ extern const unsigned short bg_00_summerscrnPal[256];
 # 20 "main.c" 2
 # 1 "bg_00_fallscrn.h" 1
 # 22 "bg_00_fallscrn.h"
-extern const unsigned short bg_00_fallscrnTiles[352];
+extern const unsigned short bg_00_fallscrnTiles[1632];
 
 
 extern const unsigned short bg_00_fallscrnMap[2048];
@@ -251,76 +251,6 @@ extern const unsigned short bg_00_fallscrn_collisionBitmap[131072];
 # 20 "bg_00_winterscrn_collision.h"
 extern const unsigned short bg_00_winterscrn_collisionBitmap[131072];
 # 27 "main.c" 2
-# 1 "bg_01_neutralscrn.h" 1
-# 22 "bg_01_neutralscrn.h"
-extern const unsigned short bg_01_neutralscrnTiles[320];
-
-
-extern const unsigned short bg_01_neutralscrnMap[2048];
-
-
-extern const unsigned short bg_01_neutralscrnPal[256];
-# 28 "main.c" 2
-# 1 "bg_01_springscrn.h" 1
-# 22 "bg_01_springscrn.h"
-extern const unsigned short bg_01_springscrnTiles[608];
-
-
-extern const unsigned short bg_01_springscrnMap[2048];
-
-
-extern const unsigned short bg_01_springscrnPal[256];
-# 29 "main.c" 2
-# 1 "bg_01_summerscrn.h" 1
-# 22 "bg_01_summerscrn.h"
-extern const unsigned short bg_01_summerscrnTiles[608];
-
-
-extern const unsigned short bg_01_summerscrnMap[2048];
-
-
-extern const unsigned short bg_01_summerscrnPal[256];
-# 30 "main.c" 2
-# 1 "bg_01_fallscrn.h" 1
-# 22 "bg_01_fallscrn.h"
-extern const unsigned short bg_01_fallscrnTiles[480];
-
-
-extern const unsigned short bg_01_fallscrnMap[2048];
-
-
-extern const unsigned short bg_01_fallscrnPal[256];
-# 31 "main.c" 2
-# 1 "bg_01_winterscrn.h" 1
-# 22 "bg_01_winterscrn.h"
-extern const unsigned short bg_01_winterscrnTiles[352];
-
-
-extern const unsigned short bg_01_winterscrnMap[2048];
-
-
-extern const unsigned short bg_01_winterscrnPal[256];
-# 32 "main.c" 2
-# 1 "bg_01_neutralscrn_collision.h" 1
-# 20 "bg_01_neutralscrn_collision.h"
-extern const unsigned short bg_01_neutralscrn_collisionBitmap[131072];
-# 33 "main.c" 2
-# 1 "bg_01_springscrn_collision.h" 1
-# 20 "bg_01_springscrn_collision.h"
-extern const unsigned short bg_01_springscrn_collisionBitmap[131072];
-# 34 "main.c" 2
-# 1 "bg_01_summerscrn_collision.h" 1
-# 20 "bg_01_summerscrn_collision.h"
-extern const unsigned short bg_01_summerscrn_collisionBitmap[131072];
-# 35 "main.c" 2
-# 1 "bg_01_fallscrn_collision.h" 1
-# 20 "bg_01_fallscrn_collision.h"
-extern const unsigned short bg_01_fallscrn_collisionBitmap[131072];
-# 36 "main.c" 2
-# 1 "bg_01_winterscrn_collision.h" 1
-# 20 "bg_01_winterscrn_collision.h"
-extern const unsigned short bg_01_winterscrn_collisionBitmap[131072];
-# 37 "main.c" 2
 # 1 "bg_02_neutralscrn.h" 1
 # 22 "bg_02_neutralscrn.h"
 extern const unsigned short bg_02_neutralscrnTiles[320];
@@ -330,7 +260,7 @@ extern const unsigned short bg_02_neutralscrnMap[2048];
 
 
 extern const unsigned short bg_02_neutralscrnPal[256];
-# 38 "main.c" 2
+# 28 "main.c" 2
 # 1 "bg_02_springscrn.h" 1
 # 22 "bg_02_springscrn.h"
 extern const unsigned short bg_02_springscrnTiles[736];
@@ -340,7 +270,7 @@ extern const unsigned short bg_02_springscrnMap[2048];
 
 
 extern const unsigned short bg_02_springscrnPal[256];
-# 39 "main.c" 2
+# 29 "main.c" 2
 # 1 "bg_02_summerscrn.h" 1
 # 22 "bg_02_summerscrn.h"
 extern const unsigned short bg_02_summerscrnTiles[480];
@@ -350,7 +280,7 @@ extern const unsigned short bg_02_summerscrnMap[2048];
 
 
 extern const unsigned short bg_02_summerscrnPal[256];
-# 40 "main.c" 2
+# 30 "main.c" 2
 # 1 "bg_02_fallscrn.h" 1
 # 22 "bg_02_fallscrn.h"
 extern const unsigned short bg_02_fallscrnTiles[480];
@@ -360,7 +290,7 @@ extern const unsigned short bg_02_fallscrnMap[2048];
 
 
 extern const unsigned short bg_02_fallscrnPal[256];
-# 41 "main.c" 2
+# 31 "main.c" 2
 # 1 "bg_02_winterscrn.h" 1
 # 22 "bg_02_winterscrn.h"
 extern const unsigned short bg_02_winterscrnTiles[352];
@@ -370,27 +300,27 @@ extern const unsigned short bg_02_winterscrnMap[2048];
 
 
 extern const unsigned short bg_02_winterscrnPal[256];
-# 42 "main.c" 2
+# 32 "main.c" 2
 # 1 "bg_02_neutralscrn_collision.h" 1
 # 20 "bg_02_neutralscrn_collision.h"
 extern const unsigned short bg_02_neutralscrn_collisionBitmap[131072];
-# 43 "main.c" 2
+# 33 "main.c" 2
 # 1 "bg_02_springscrn_collision.h" 1
 # 20 "bg_02_springscrn_collision.h"
 extern const unsigned short bg_02_springscrn_collisionBitmap[131072];
-# 44 "main.c" 2
+# 34 "main.c" 2
 # 1 "bg_02_summerscrn_collision.h" 1
 # 20 "bg_02_summerscrn_collision.h"
 extern const unsigned short bg_02_summerscrn_collisionBitmap[131072];
-# 45 "main.c" 2
+# 35 "main.c" 2
 # 1 "bg_02_fallscrn_collision.h" 1
 # 20 "bg_02_fallscrn_collision.h"
 extern const unsigned short bg_02_fallscrn_collisionBitmap[131072];
-# 46 "main.c" 2
+# 36 "main.c" 2
 # 1 "bg_02_winterscrn_collision.h" 1
 # 20 "bg_02_winterscrn_collision.h"
 extern const unsigned short bg_02_winterscrn_collisionBitmap[131072];
-# 47 "main.c" 2
+# 37 "main.c" 2
 # 1 "bg_03_neutralscrn.h" 1
 # 22 "bg_03_neutralscrn.h"
 extern const unsigned short bg_03_neutralscrnTiles[320];
@@ -400,7 +330,7 @@ extern const unsigned short bg_03_neutralscrnMap[2048];
 
 
 extern const unsigned short bg_03_neutralscrnPal[256];
-# 48 "main.c" 2
+# 38 "main.c" 2
 # 1 "bg_03_springscrn.h" 1
 # 22 "bg_03_springscrn.h"
 extern const unsigned short bg_03_springscrnTiles[608];
@@ -410,7 +340,7 @@ extern const unsigned short bg_03_springscrnMap[2048];
 
 
 extern const unsigned short bg_03_springscrnPal[256];
-# 49 "main.c" 2
+# 39 "main.c" 2
 # 1 "bg_03_summerscrn.h" 1
 # 22 "bg_03_summerscrn.h"
 extern const unsigned short bg_03_summerscrnTiles[480];
@@ -420,7 +350,7 @@ extern const unsigned short bg_03_summerscrnMap[2048];
 
 
 extern const unsigned short bg_03_summerscrnPal[256];
-# 50 "main.c" 2
+# 40 "main.c" 2
 # 1 "bg_03_fallscrn.h" 1
 # 22 "bg_03_fallscrn.h"
 extern const unsigned short bg_03_fallscrnTiles[608];
@@ -430,7 +360,7 @@ extern const unsigned short bg_03_fallscrnMap[2048];
 
 
 extern const unsigned short bg_03_fallscrnPal[256];
-# 51 "main.c" 2
+# 41 "main.c" 2
 # 1 "bg_03_winterscrn.h" 1
 # 22 "bg_03_winterscrn.h"
 extern const unsigned short bg_03_winterscrnTiles[352];
@@ -440,27 +370,27 @@ extern const unsigned short bg_03_winterscrnMap[2048];
 
 
 extern const unsigned short bg_03_winterscrnPal[256];
-# 52 "main.c" 2
+# 42 "main.c" 2
 # 1 "bg_03_neutralscrn_collision.h" 1
 # 20 "bg_03_neutralscrn_collision.h"
 extern const unsigned short bg_03_neutralscrn_collisionBitmap[131072];
-# 53 "main.c" 2
+# 43 "main.c" 2
 # 1 "bg_03_springscrn_collision.h" 1
 # 20 "bg_03_springscrn_collision.h"
 extern const unsigned short bg_03_springscrn_collisionBitmap[131072];
-# 54 "main.c" 2
+# 44 "main.c" 2
 # 1 "bg_03_summerscrn_collision.h" 1
 # 20 "bg_03_summerscrn_collision.h"
 extern const unsigned short bg_03_summerscrn_collisionBitmap[131072];
-# 55 "main.c" 2
+# 45 "main.c" 2
 # 1 "bg_03_fallscrn_collision.h" 1
 # 20 "bg_03_fallscrn_collision.h"
 extern const unsigned short bg_03_fallscrn_collisionBitmap[131072];
-# 56 "main.c" 2
+# 46 "main.c" 2
 # 1 "bg_03_winterscrn_collision.h" 1
 # 20 "bg_03_winterscrn_collision.h"
 extern const unsigned short bg_03_winterscrn_collisionBitmap[131072];
-# 57 "main.c" 2
+# 47 "main.c" 2
 # 1 "bg_04_neutralscrn.h" 1
 # 22 "bg_04_neutralscrn.h"
 extern const unsigned short bg_04_neutralscrnTiles[320];
@@ -470,7 +400,7 @@ extern const unsigned short bg_04_neutralscrnMap[2048];
 
 
 extern const unsigned short bg_04_neutralscrnPal[256];
-# 58 "main.c" 2
+# 48 "main.c" 2
 # 1 "bg_04_springscrn.h" 1
 # 22 "bg_04_springscrn.h"
 extern const unsigned short bg_04_springscrnTiles[224];
@@ -480,7 +410,7 @@ extern const unsigned short bg_04_springscrnMap[2048];
 
 
 extern const unsigned short bg_04_springscrnPal[256];
-# 59 "main.c" 2
+# 49 "main.c" 2
 # 1 "bg_04_summerscrn.h" 1
 # 22 "bg_04_summerscrn.h"
 extern const unsigned short bg_04_summerscrnTiles[480];
@@ -490,7 +420,7 @@ extern const unsigned short bg_04_summerscrnMap[2048];
 
 
 extern const unsigned short bg_04_summerscrnPal[256];
-# 60 "main.c" 2
+# 50 "main.c" 2
 # 1 "bg_04_fallscrn.h" 1
 # 22 "bg_04_fallscrn.h"
 extern const unsigned short bg_04_fallscrnTiles[480];
@@ -500,7 +430,7 @@ extern const unsigned short bg_04_fallscrnMap[2048];
 
 
 extern const unsigned short bg_04_fallscrnPal[256];
-# 61 "main.c" 2
+# 51 "main.c" 2
 # 1 "bg_04_winterscrn.h" 1
 # 22 "bg_04_winterscrn.h"
 extern const unsigned short bg_04_winterscrnTiles[352];
@@ -510,27 +440,27 @@ extern const unsigned short bg_04_winterscrnMap[2048];
 
 
 extern const unsigned short bg_04_winterscrnPal[256];
-# 62 "main.c" 2
+# 52 "main.c" 2
 # 1 "bg_04_neutralscrn_collision.h" 1
 # 20 "bg_04_neutralscrn_collision.h"
 extern const unsigned short bg_04_neutralscrn_collisionBitmap[131072];
-# 63 "main.c" 2
+# 53 "main.c" 2
 # 1 "bg_04_springscrn_collision.h" 1
 # 20 "bg_04_springscrn_collision.h"
 extern const unsigned short bg_04_springscrn_collisionBitmap[131072];
-# 64 "main.c" 2
+# 54 "main.c" 2
 # 1 "bg_04_summerscrn_collision.h" 1
 # 20 "bg_04_summerscrn_collision.h"
 extern const unsigned short bg_04_summerscrn_collisionBitmap[131072];
-# 65 "main.c" 2
+# 55 "main.c" 2
 # 1 "bg_04_fallscrn_collision.h" 1
 # 20 "bg_04_fallscrn_collision.h"
 extern const unsigned short bg_04_fallscrn_collisionBitmap[131072];
-# 66 "main.c" 2
+# 56 "main.c" 2
 # 1 "bg_04_winterscrn_collision.h" 1
 # 20 "bg_04_winterscrn_collision.h"
 extern const unsigned short bg_04_winterscrn_collisionBitmap[131072];
-# 67 "main.c" 2
+# 57 "main.c" 2
 # 1 "bg_05_neutralscrn.h" 1
 # 22 "bg_05_neutralscrn.h"
 extern const unsigned short bg_05_neutralscrnTiles[320];
@@ -540,7 +470,7 @@ extern const unsigned short bg_05_neutralscrnMap[2048];
 
 
 extern const unsigned short bg_05_neutralscrnPal[256];
-# 68 "main.c" 2
+# 58 "main.c" 2
 # 1 "bg_05_springscrn.h" 1
 # 22 "bg_05_springscrn.h"
 extern const unsigned short bg_05_springscrnTiles[64];
@@ -550,7 +480,7 @@ extern const unsigned short bg_05_springscrnMap[2048];
 
 
 extern const unsigned short bg_05_springscrnPal[256];
-# 69 "main.c" 2
+# 59 "main.c" 2
 # 1 "bg_05_summerscrn.h" 1
 # 22 "bg_05_summerscrn.h"
 extern const unsigned short bg_05_summerscrnTiles[192];
@@ -560,7 +490,7 @@ extern const unsigned short bg_05_summerscrnMap[2048];
 
 
 extern const unsigned short bg_05_summerscrnPal[256];
-# 70 "main.c" 2
+# 60 "main.c" 2
 # 1 "bg_05_fallscrn.h" 1
 # 22 "bg_05_fallscrn.h"
 extern const unsigned short bg_05_fallscrnTiles[192];
@@ -570,7 +500,7 @@ extern const unsigned short bg_05_fallscrnMap[2048];
 
 
 extern const unsigned short bg_05_fallscrnPal[256];
-# 71 "main.c" 2
+# 61 "main.c" 2
 # 1 "bg_05_winterscrn.h" 1
 # 22 "bg_05_winterscrn.h"
 extern const unsigned short bg_05_winterscrnTiles[64];
@@ -580,27 +510,27 @@ extern const unsigned short bg_05_winterscrnMap[2048];
 
 
 extern const unsigned short bg_05_winterscrnPal[256];
-# 72 "main.c" 2
+# 62 "main.c" 2
 # 1 "bg_05_neutralscrn_collision.h" 1
 # 20 "bg_05_neutralscrn_collision.h"
 extern const unsigned short bg_05_neutralscrn_collisionBitmap[131072];
-# 73 "main.c" 2
+# 63 "main.c" 2
 # 1 "bg_05_springscrn_collision.h" 1
 # 20 "bg_05_springscrn_collision.h"
 extern const unsigned short bg_05_springscrn_collisionBitmap[131072];
-# 74 "main.c" 2
+# 64 "main.c" 2
 # 1 "bg_05_summerscrn_collision.h" 1
 # 20 "bg_05_summerscrn_collision.h"
 extern const unsigned short bg_05_summerscrn_collisionBitmap[131072];
-# 75 "main.c" 2
+# 65 "main.c" 2
 # 1 "bg_05_fallscrn_collision.h" 1
 # 20 "bg_05_fallscrn_collision.h"
 extern const unsigned short bg_05_fallscrn_collisionBitmap[131072];
-# 76 "main.c" 2
+# 66 "main.c" 2
 # 1 "bg_05_winterscrn_collision.h" 1
 # 20 "bg_05_winterscrn_collision.h"
 extern const unsigned short bg_05_winterscrn_collisionBitmap[131072];
-# 77 "main.c" 2
+# 67 "main.c" 2
 # 1 "bg_06_neutralscrn.h" 1
 # 22 "bg_06_neutralscrn.h"
 extern const unsigned short bg_06_neutralscrnTiles[320];
@@ -610,7 +540,7 @@ extern const unsigned short bg_06_neutralscrnMap[2048];
 
 
 extern const unsigned short bg_06_neutralscrnPal[256];
-# 78 "main.c" 2
+# 68 "main.c" 2
 # 1 "bg_06_springscrn.h" 1
 # 22 "bg_06_springscrn.h"
 extern const unsigned short bg_06_springscrnTiles[576];
@@ -620,7 +550,7 @@ extern const unsigned short bg_06_springscrnMap[2048];
 
 
 extern const unsigned short bg_06_springscrnPal[256];
-# 79 "main.c" 2
+# 69 "main.c" 2
 # 1 "bg_06_summerscrn.h" 1
 # 22 "bg_06_summerscrn.h"
 extern const unsigned short bg_06_summerscrnTiles[96];
@@ -630,7 +560,7 @@ extern const unsigned short bg_06_summerscrnMap[2048];
 
 
 extern const unsigned short bg_06_summerscrnPal[256];
-# 80 "main.c" 2
+# 70 "main.c" 2
 # 1 "bg_06_fallscrn.h" 1
 # 22 "bg_06_fallscrn.h"
 extern const unsigned short bg_06_fallscrnTiles[224];
@@ -640,7 +570,7 @@ extern const unsigned short bg_06_fallscrnMap[2048];
 
 
 extern const unsigned short bg_06_fallscrnPal[256];
-# 81 "main.c" 2
+# 71 "main.c" 2
 # 1 "bg_06_winterscrn.h" 1
 # 22 "bg_06_winterscrn.h"
 extern const unsigned short bg_06_winterscrnTiles[352];
@@ -650,27 +580,27 @@ extern const unsigned short bg_06_winterscrnMap[2048];
 
 
 extern const unsigned short bg_06_winterscrnPal[256];
-# 82 "main.c" 2
+# 72 "main.c" 2
 # 1 "bg_06_neutralscrn_collision.h" 1
 # 20 "bg_06_neutralscrn_collision.h"
 extern const unsigned short bg_06_neutralscrn_collisionBitmap[131072];
-# 83 "main.c" 2
+# 73 "main.c" 2
 # 1 "bg_06_springscrn_collision.h" 1
 # 20 "bg_06_springscrn_collision.h"
 extern const unsigned short bg_06_springscrn_collisionBitmap[131072];
-# 84 "main.c" 2
+# 74 "main.c" 2
 # 1 "bg_06_summerscrn_collision.h" 1
 # 20 "bg_06_summerscrn_collision.h"
 extern const unsigned short bg_06_summerscrn_collisionBitmap[131072];
-# 85 "main.c" 2
+# 75 "main.c" 2
 # 1 "bg_06_fallscrn_collision.h" 1
 # 20 "bg_06_fallscrn_collision.h"
 extern const unsigned short bg_06_fallscrn_collisionBitmap[131072];
-# 86 "main.c" 2
+# 76 "main.c" 2
 # 1 "bg_06_winterscrn_collision.h" 1
 # 20 "bg_06_winterscrn_collision.h"
 extern const unsigned short bg_06_winterscrn_collisionBitmap[131072];
-# 87 "main.c" 2
+# 77 "main.c" 2
 # 1 "bg_07_neutralscrn.h" 1
 # 22 "bg_07_neutralscrn.h"
 extern const unsigned short bg_07_neutralscrnTiles[320];
@@ -680,7 +610,7 @@ extern const unsigned short bg_07_neutralscrnMap[2048];
 
 
 extern const unsigned short bg_07_neutralscrnPal[256];
-# 88 "main.c" 2
+# 78 "main.c" 2
 # 1 "bg_07_springscrn.h" 1
 # 22 "bg_07_springscrn.h"
 extern const unsigned short bg_07_springscrnTiles[608];
@@ -690,7 +620,7 @@ extern const unsigned short bg_07_springscrnMap[2048];
 
 
 extern const unsigned short bg_07_springscrnPal[256];
-# 89 "main.c" 2
+# 79 "main.c" 2
 # 1 "bg_07_summerscrn.h" 1
 # 22 "bg_07_summerscrn.h"
 extern const unsigned short bg_07_summerscrnTiles[480];
@@ -700,7 +630,7 @@ extern const unsigned short bg_07_summerscrnMap[2048];
 
 
 extern const unsigned short bg_07_summerscrnPal[256];
-# 90 "main.c" 2
+# 80 "main.c" 2
 # 1 "bg_07_fallscrn.h" 1
 # 22 "bg_07_fallscrn.h"
 extern const unsigned short bg_07_fallscrnTiles[224];
@@ -710,7 +640,7 @@ extern const unsigned short bg_07_fallscrnMap[2048];
 
 
 extern const unsigned short bg_07_fallscrnPal[256];
-# 91 "main.c" 2
+# 81 "main.c" 2
 # 1 "bg_07_winterscrn.h" 1
 # 22 "bg_07_winterscrn.h"
 extern const unsigned short bg_07_winterscrnTiles[480];
@@ -720,27 +650,27 @@ extern const unsigned short bg_07_winterscrnMap[2048];
 
 
 extern const unsigned short bg_07_winterscrnPal[256];
-# 92 "main.c" 2
+# 82 "main.c" 2
 # 1 "bg_07_neutralscrn_collision.h" 1
 # 20 "bg_07_neutralscrn_collision.h"
 extern const unsigned short bg_07_neutralscrn_collisionBitmap[131072];
-# 93 "main.c" 2
+# 83 "main.c" 2
 # 1 "bg_07_springscrn_collision.h" 1
 # 20 "bg_07_springscrn_collision.h"
 extern const unsigned short bg_07_springscrn_collisionBitmap[131072];
-# 94 "main.c" 2
+# 84 "main.c" 2
 # 1 "bg_07_summerscrn_collision.h" 1
 # 20 "bg_07_summerscrn_collision.h"
 extern const unsigned short bg_07_summerscrn_collisionBitmap[131072];
-# 95 "main.c" 2
+# 85 "main.c" 2
 # 1 "bg_07_fallscrn_collision.h" 1
 # 20 "bg_07_fallscrn_collision.h"
 extern const unsigned short bg_07_fallscrn_collisionBitmap[131072];
-# 96 "main.c" 2
+# 86 "main.c" 2
 # 1 "bg_07_winterscrn_collision.h" 1
 # 20 "bg_07_winterscrn_collision.h"
 extern const unsigned short bg_07_winterscrn_collisionBitmap[131072];
-# 97 "main.c" 2
+# 87 "main.c" 2
 # 1 "bg_08_neutralscrn.h" 1
 # 22 "bg_08_neutralscrn.h"
 extern const unsigned short bg_08_neutralscrnTiles[320];
@@ -750,7 +680,7 @@ extern const unsigned short bg_08_neutralscrnMap[2048];
 
 
 extern const unsigned short bg_08_neutralscrnPal[256];
-# 98 "main.c" 2
+# 88 "main.c" 2
 # 1 "bg_08_springscrn.h" 1
 # 22 "bg_08_springscrn.h"
 extern const unsigned short bg_08_springscrnTiles[224];
@@ -760,7 +690,7 @@ extern const unsigned short bg_08_springscrnMap[2048];
 
 
 extern const unsigned short bg_08_springscrnPal[256];
-# 99 "main.c" 2
+# 89 "main.c" 2
 # 1 "bg_08_summerscrn.h" 1
 # 22 "bg_08_summerscrn.h"
 extern const unsigned short bg_08_summerscrnTiles[320];
@@ -770,7 +700,7 @@ extern const unsigned short bg_08_summerscrnMap[2048];
 
 
 extern const unsigned short bg_08_summerscrnPal[256];
-# 100 "main.c" 2
+# 90 "main.c" 2
 # 1 "bg_08_fallscrn.h" 1
 # 22 "bg_08_fallscrn.h"
 extern const unsigned short bg_08_fallscrnTiles[224];
@@ -780,7 +710,7 @@ extern const unsigned short bg_08_fallscrnMap[2048];
 
 
 extern const unsigned short bg_08_fallscrnPal[256];
-# 101 "main.c" 2
+# 91 "main.c" 2
 # 1 "bg_08_winterscrn.h" 1
 # 22 "bg_08_winterscrn.h"
 extern const unsigned short bg_08_winterscrnTiles[320];
@@ -790,27 +720,27 @@ extern const unsigned short bg_08_winterscrnMap[2048];
 
 
 extern const unsigned short bg_08_winterscrnPal[256];
-# 102 "main.c" 2
+# 92 "main.c" 2
 # 1 "bg_08_neutralscrn_collision.h" 1
 # 20 "bg_08_neutralscrn_collision.h"
 extern const unsigned short bg_08_neutralscrn_collisionBitmap[131072];
-# 103 "main.c" 2
+# 93 "main.c" 2
 # 1 "bg_08_springscrn_collision.h" 1
 # 20 "bg_08_springscrn_collision.h"
 extern const unsigned short bg_08_springscrn_collisionBitmap[131072];
-# 104 "main.c" 2
+# 94 "main.c" 2
 # 1 "bg_08_summerscrn_collision.h" 1
 # 20 "bg_08_summerscrn_collision.h"
 extern const unsigned short bg_08_summerscrn_collisionBitmap[131072];
-# 105 "main.c" 2
+# 95 "main.c" 2
 # 1 "bg_08_fallscrn_collision.h" 1
 # 20 "bg_08_fallscrn_collision.h"
 extern const unsigned short bg_08_fallscrn_collisionBitmap[131072];
-# 106 "main.c" 2
+# 96 "main.c" 2
 # 1 "bg_08_winterscrn_collision.h" 1
 # 20 "bg_08_winterscrn_collision.h"
 extern const unsigned short bg_08_winterscrn_collisionBitmap[131072];
-# 107 "main.c" 2
+# 97 "main.c" 2
 # 1 "bg_09_neutralscrn.h" 1
 # 22 "bg_09_neutralscrn.h"
 extern const unsigned short bg_09_neutralscrnTiles[320];
@@ -820,7 +750,7 @@ extern const unsigned short bg_09_neutralscrnMap[2048];
 
 
 extern const unsigned short bg_09_neutralscrnPal[256];
-# 108 "main.c" 2
+# 98 "main.c" 2
 # 1 "bg_09_springscrn.h" 1
 # 22 "bg_09_springscrn.h"
 extern const unsigned short bg_09_springscrnTiles[736];
@@ -830,7 +760,7 @@ extern const unsigned short bg_09_springscrnMap[2048];
 
 
 extern const unsigned short bg_09_springscrnPal[256];
-# 109 "main.c" 2
+# 99 "main.c" 2
 # 1 "bg_09_summerscrn.h" 1
 # 22 "bg_09_summerscrn.h"
 extern const unsigned short bg_09_summerscrnTiles[608];
@@ -840,7 +770,7 @@ extern const unsigned short bg_09_summerscrnMap[2048];
 
 
 extern const unsigned short bg_09_summerscrnPal[256];
-# 110 "main.c" 2
+# 100 "main.c" 2
 # 1 "bg_09_fallscrn.h" 1
 # 22 "bg_09_fallscrn.h"
 extern const unsigned short bg_09_fallscrnTiles[608];
@@ -850,7 +780,7 @@ extern const unsigned short bg_09_fallscrnMap[2048];
 
 
 extern const unsigned short bg_09_fallscrnPal[256];
-# 111 "main.c" 2
+# 101 "main.c" 2
 # 1 "bg_09_winterscrn.h" 1
 # 22 "bg_09_winterscrn.h"
 extern const unsigned short bg_09_winterscrnTiles[480];
@@ -860,27 +790,27 @@ extern const unsigned short bg_09_winterscrnMap[2048];
 
 
 extern const unsigned short bg_09_winterscrnPal[256];
-# 112 "main.c" 2
+# 102 "main.c" 2
 # 1 "bg_09_neutralscrn_collision.h" 1
 # 20 "bg_09_neutralscrn_collision.h"
 extern const unsigned short bg_09_neutralscrn_collisionBitmap[131072];
-# 113 "main.c" 2
+# 103 "main.c" 2
 # 1 "bg_09_springscrn_collision.h" 1
 # 20 "bg_09_springscrn_collision.h"
 extern const unsigned short bg_09_springscrn_collisionBitmap[131072];
-# 114 "main.c" 2
+# 104 "main.c" 2
 # 1 "bg_09_summerscrn_collision.h" 1
 # 20 "bg_09_summerscrn_collision.h"
 extern const unsigned short bg_09_summerscrn_collisionBitmap[131072];
-# 115 "main.c" 2
+# 105 "main.c" 2
 # 1 "bg_09_fallscrn_collision.h" 1
 # 20 "bg_09_fallscrn_collision.h"
 extern const unsigned short bg_09_fallscrn_collisionBitmap[131072];
-# 116 "main.c" 2
+# 106 "main.c" 2
 # 1 "bg_09_winterscrn_collision.h" 1
 # 20 "bg_09_winterscrn_collision.h"
 extern const unsigned short bg_09_winterscrn_collisionBitmap[131072];
-# 117 "main.c" 2
+# 107 "main.c" 2
 # 1 "bg_10_neutralscrn.h" 1
 # 22 "bg_10_neutralscrn.h"
 extern const unsigned short bg_10_neutralscrnTiles[320];
@@ -890,7 +820,7 @@ extern const unsigned short bg_10_neutralscrnMap[2048];
 
 
 extern const unsigned short bg_10_neutralscrnPal[256];
-# 118 "main.c" 2
+# 108 "main.c" 2
 # 1 "bg_10_springscrn.h" 1
 # 22 "bg_10_springscrn.h"
 extern const unsigned short bg_10_springscrnTiles[224];
@@ -900,7 +830,7 @@ extern const unsigned short bg_10_springscrnMap[2048];
 
 
 extern const unsigned short bg_10_springscrnPal[256];
-# 119 "main.c" 2
+# 109 "main.c" 2
 # 1 "bg_10_summerscrn.h" 1
 # 22 "bg_10_summerscrn.h"
 extern const unsigned short bg_10_summerscrnTiles[224];
@@ -910,7 +840,7 @@ extern const unsigned short bg_10_summerscrnMap[2048];
 
 
 extern const unsigned short bg_10_summerscrnPal[256];
-# 120 "main.c" 2
+# 110 "main.c" 2
 # 1 "bg_10_fallscrn.h" 1
 # 22 "bg_10_fallscrn.h"
 extern const unsigned short bg_10_fallscrnTiles[224];
@@ -920,7 +850,7 @@ extern const unsigned short bg_10_fallscrnMap[2048];
 
 
 extern const unsigned short bg_10_fallscrnPal[256];
-# 121 "main.c" 2
+# 111 "main.c" 2
 # 1 "bg_10_winterscrn.h" 1
 # 22 "bg_10_winterscrn.h"
 extern const unsigned short bg_10_winterscrnTiles[448];
@@ -930,27 +860,27 @@ extern const unsigned short bg_10_winterscrnMap[2048];
 
 
 extern const unsigned short bg_10_winterscrnPal[256];
-# 122 "main.c" 2
+# 112 "main.c" 2
 # 1 "bg_10_neutralscrn_collision.h" 1
 # 20 "bg_10_neutralscrn_collision.h"
 extern const unsigned short bg_10_neutralscrn_collisionBitmap[131072];
-# 123 "main.c" 2
+# 113 "main.c" 2
 # 1 "bg_10_springscrn_collision.h" 1
 # 20 "bg_10_springscrn_collision.h"
 extern const unsigned short bg_10_springscrn_collisionBitmap[131072];
-# 124 "main.c" 2
+# 114 "main.c" 2
 # 1 "bg_10_summerscrn_collision.h" 1
 # 20 "bg_10_summerscrn_collision.h"
 extern const unsigned short bg_10_summerscrn_collisionBitmap[131072];
-# 125 "main.c" 2
+# 115 "main.c" 2
 # 1 "bg_10_fallscrn_collision.h" 1
 # 20 "bg_10_fallscrn_collision.h"
 extern const unsigned short bg_10_fallscrn_collisionBitmap[131072];
-# 126 "main.c" 2
+# 116 "main.c" 2
 # 1 "bg_10_winterscrn_collision.h" 1
 # 20 "bg_10_winterscrn_collision.h"
 extern const unsigned short bg_10_winterscrn_collisionBitmap[131072];
-# 127 "main.c" 2
+# 117 "main.c" 2
 # 1 "bg_final_neutralscrn.h" 1
 # 22 "bg_final_neutralscrn.h"
 extern const unsigned short bg_final_neutralscrnTiles[320];
@@ -960,7 +890,7 @@ extern const unsigned short bg_final_neutralscrnMap[2048];
 
 
 extern const unsigned short bg_final_neutralscrnPal[256];
-# 128 "main.c" 2
+# 118 "main.c" 2
 # 1 "bg_final_springscrn.h" 1
 # 22 "bg_final_springscrn.h"
 extern const unsigned short bg_final_springscrnTiles[704];
@@ -970,7 +900,7 @@ extern const unsigned short bg_final_springscrnMap[2048];
 
 
 extern const unsigned short bg_final_springscrnPal[256];
-# 129 "main.c" 2
+# 119 "main.c" 2
 # 1 "bg_final_summerscrn.h" 1
 # 22 "bg_final_summerscrn.h"
 extern const unsigned short bg_final_summerscrnTiles[576];
@@ -980,7 +910,7 @@ extern const unsigned short bg_final_summerscrnMap[2048];
 
 
 extern const unsigned short bg_final_summerscrnPal[256];
-# 130 "main.c" 2
+# 120 "main.c" 2
 # 1 "bg_final_fallscrn.h" 1
 # 22 "bg_final_fallscrn.h"
 extern const unsigned short bg_final_fallscrnTiles[576];
@@ -990,7 +920,7 @@ extern const unsigned short bg_final_fallscrnMap[2048];
 
 
 extern const unsigned short bg_final_fallscrnPal[256];
-# 131 "main.c" 2
+# 121 "main.c" 2
 # 1 "bg_final_winterscrn.h" 1
 # 22 "bg_final_winterscrn.h"
 extern const unsigned short bg_final_winterscrnTiles[448];
@@ -1000,11 +930,11 @@ extern const unsigned short bg_final_winterscrnMap[2048];
 
 
 extern const unsigned short bg_final_winterscrnPal[256];
-# 132 "main.c" 2
+# 122 "main.c" 2
 # 1 "bg_final_collision.h" 1
 # 20 "bg_final_collision.h"
 extern const unsigned short bg_final_collisionBitmap[131072];
-# 133 "main.c" 2
+# 123 "main.c" 2
 
 
 
@@ -1116,7 +1046,7 @@ void warpAnimation();
 void jump();
 int checkCollision();
 int checkWinCollision();
-# 253 "main.c"
+# 243 "main.c"
 int main() {
 
  setupInterrupts();
@@ -1275,7 +1205,7 @@ void setupGame() {
 
  season = NEUTRAL;
 
- currentLevel = 0;
+ currentLevel = 1;
 
  setupLevel();
 
@@ -1285,8 +1215,11 @@ void setupGame() {
 void setupLevel() {
 
 
- if (currentLevel < 1 || (currentLevel > (12 - 2))) {
+ if (currentLevel <= 1) {
   season = NEUTRAL;
+ }
+ else if (currentLevel > (11 - 1)) {
+  season = SPRING;
  }
 
  else {
@@ -1311,12 +1244,12 @@ void setupLevel() {
 
  switch (currentLevel) {
 
-  case 0:
+  case 1:
 
 
    loadPalette(bg_00_neutralscrnPal);
      DMANow(3, bg_00_neutralscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-     DMANow(3, bg_00_neutralscrnTiles, &((charblock *)0x6000000)[2], 384 / 2);
+     DMANow(3, bg_00_neutralscrnTiles, &((charblock *)0x6000000)[2], 3840 / 2);
 
 
      player.row = 10;
@@ -1324,20 +1257,6 @@ void setupLevel() {
 
    vOff = 0;
    hOff = 0;
-
-  break;
-
-  case 1:
-
-   loadPalette(bg_01_summerscrnPal);
-   DMANow(3, bg_01_summerscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-     DMANow(3, bg_01_summerscrnTiles, &((charblock *)0x6000000)[2], 448 / 2);
-
-     player.row = 5;
-     player.col = 112;
-
-     vOff = 0;
-     hOff = 104;
 
   break;
 
@@ -1469,9 +1388,9 @@ void setupLevel() {
 
   case 11:
 
-   loadPalette(bg_final_neutralscrnPal);
-   DMANow(3, bg_final_neutralscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-   DMANow(3, bg_final_neutralscrnTiles, &((charblock *)0x6000000)[2], 640 / 2);
+   loadPalette(bg_final_springscrnPal);
+   DMANow(3, bg_final_springscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
+   DMANow(3, bg_final_springscrnTiles, &((charblock *)0x6000000)[2], 1408 / 2);
 
    player.row = 30;
    player.col = 10;
@@ -1650,7 +1569,7 @@ void game() {
  if (player.isJumping) {
   jump();
  }
-# 795 "main.c"
+# 774 "main.c"
  if (!checkCollision() || player.isJumping) {
 
 
@@ -1861,16 +1780,10 @@ void seasonChange() {
 
    switch (currentLevel) {
 
-    case 0:
+    case 1:
      loadPalette(bg_00_neutralscrnPal);
        DMANow(3, bg_00_neutralscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-       DMANow(3, bg_00_neutralscrnTiles, &((charblock *)0x6000000)[2], 384 / 2);
-    break;
-
-    case 1:
-     loadPalette(bg_01_neutralscrnPal);
-       DMANow(3, bg_01_neutralscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-       DMANow(3, bg_01_neutralscrnTiles, &((charblock *)0x6000000)[2], 640 / 2);
+       DMANow(3, bg_00_neutralscrnTiles, &((charblock *)0x6000000)[2], 3840 / 2);
     break;
 
     case 2:
@@ -1941,16 +1854,10 @@ void seasonChange() {
 
    switch (currentLevel) {
 
-    case 0:
+    case 1:
      loadPalette(bg_00_springscrnPal);
        DMANow(3, bg_00_springscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-       DMANow(3, bg_00_springscrnTiles, &((charblock *)0x6000000)[2], 832 / 2);
-    break;
-
-    case 1:
-     loadPalette(bg_01_springscrnPal);
-       DMANow(3, bg_01_springscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-       DMANow(3, bg_01_springscrnTiles, &((charblock *)0x6000000)[2], 1216 / 2);
+       DMANow(3, bg_00_springscrnTiles, &((charblock *)0x6000000)[2], 4864 / 2);
     break;
 
     case 2:
@@ -2022,16 +1929,10 @@ void seasonChange() {
 
    switch (currentLevel) {
 
-    case 0:
+    case 1:
      loadPalette(bg_00_summerscrnPal);
        DMANow(3, bg_00_summerscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-       DMANow(3, bg_00_summerscrnTiles, &((charblock *)0x6000000)[2], 448 / 2);
-    break;
-
-    case 1:
-     loadPalette(bg_01_summerscrnPal);
-       DMANow(3, bg_01_summerscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-       DMANow(3, bg_01_summerscrnTiles, &((charblock *)0x6000000)[2], 1216 / 2);
+       DMANow(3, bg_00_summerscrnTiles, &((charblock *)0x6000000)[2], 3584 / 2);
     break;
 
     case 2:
@@ -2109,16 +2010,10 @@ void seasonChange() {
 
    switch (currentLevel) {
 
-    case 0:
+    case 1:
      loadPalette(bg_00_fallscrnPal);
        DMANow(3, bg_00_fallscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-       DMANow(3, bg_00_fallscrnTiles, &((charblock *)0x6000000)[2], 704 / 2);
-    break;
-
-    case 1:
-     loadPalette(bg_01_fallscrnPal);
-     DMANow(3, bg_01_fallscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-       DMANow(3, bg_01_fallscrnTiles, &((charblock *)0x6000000)[2], 960 / 2);
+       DMANow(3, bg_00_fallscrnTiles, &((charblock *)0x6000000)[2], 3264 / 2);
     break;
 
     case 2:
@@ -2196,16 +2091,10 @@ void seasonChange() {
 
    switch (currentLevel) {
 
-    case 0:
+    case 1:
      loadPalette(bg_00_winterscrnPal);
        DMANow(3, bg_00_winterscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
        DMANow(3, bg_00_winterscrnTiles, &((charblock *)0x6000000)[2], 896 / 2);
-    break;
-
-    case 1:
-     loadPalette(bg_01_winterscrnPal);
-     DMANow(3, bg_01_winterscrnMap, &((screenblock *)0x6000000)[28], 4096 / 2);
-       DMANow(3, bg_01_winterscrnTiles, &((charblock *)0x6000000)[2], 704 / 2);
     break;
 
     case 2:
@@ -2331,17 +2220,9 @@ int checkCollision() {
 
    switch (currentLevel) {
 
-    case 0:
-
-     if (bg_00_neutralscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
-      return 1;
-     }
-
-    break;
-
     case 1:
 
-     if (bg_01_neutralscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
+     if (bg_00_neutralscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
       return 1;
      }
 
@@ -2435,17 +2316,9 @@ int checkCollision() {
 
    switch (currentLevel) {
 
-    case 0:
-
-     if (bg_00_springscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
-      return 1;
-     }
-
-    break;
-
     case 1:
 
-     if (bg_01_springscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
+     if (bg_00_springscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
       return 1;
      }
 
@@ -2531,17 +2404,9 @@ int checkCollision() {
 
    switch (currentLevel) {
 
-    case 0:
-
-     if (bg_00_summerscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
-      return 1;
-     }
-
-    break;
-
     case 1:
 
-     if (bg_01_summerscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
+     if (bg_00_summerscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
       return 1;
      }
 
@@ -2627,19 +2492,12 @@ int checkCollision() {
 
    switch (currentLevel) {
 
-    case 0:
+    case 1:
 
      if (bg_00_fallscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
       return 1;
      }
 
-    break;
-
-    case 1:
-
-     if (bg_01_fallscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
-      return 1;
-     }
 
     break;
 
@@ -2724,17 +2582,9 @@ int checkCollision() {
 
    switch (currentLevel) {
 
-    case 0:
-
-     if (bg_00_winterscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
-      return 1;
-     }
-
-    break;
-
     case 1:
 
-     if (bg_01_winterscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
+     if (bg_00_winterscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == 0) {
       return 1;
      }
 
@@ -2830,14 +2680,6 @@ int checkWinCollision() {
   case NEUTRAL:
 
    switch (currentLevel) {
-
-    case 1:
-
-     if (bg_01_neutralscrn_collisionBitmap[((player.bigRow + player.height + 1) * (512) + (player.bigCol + 8))] == ((31) | (0 << 5) | (0 << 10))) {
-      return 1;
-     }
-
-    break;
 
     case 2:
 
@@ -2959,14 +2801,6 @@ int checkWinCollision() {
 
    switch (currentLevel) {
 
-    case 1:
-
-     if (bg_01_summerscrn_collisionBitmap[((player.bigRow + 8) * (512) + (player.bigCol + 8))] == ((31) | (0 << 5) | (0 << 10))) {
-      return 1;
-     }
-
-    break;
-
     case 11:
 
      if (bg_final_collisionBitmap[((player.bigRow + 8) * (512) + (player.bigCol + 8))] == ((31) | (0 << 5) | (0 << 10))) {
@@ -3031,7 +2865,7 @@ int checkWinCollision() {
 
    switch (currentLevel) {
 
-    case 0:
+    case 1:
 
      if (bg_00_winterscrn_collisionBitmap[((player.bigRow + 8) * (512) + (player.bigCol + 8))] == ((31) | (0 << 5) | (0 << 10))) {
       return 1;
@@ -3096,7 +2930,7 @@ void winLevel() {
 
   if ((!(~(oldButtons)&((1<<0))) && (~buttons & ((1<<0))))) {
 
-   if (currentLevel + 1 < 12) {
+   if (currentLevel + 1 <= 11) {
 
     currentLevel++;
     init();
