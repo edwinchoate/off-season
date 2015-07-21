@@ -68,7 +68,7 @@ typedef struct {
 typedef struct {
  unsigned short tilemap[1024];
 } screenblock;
-# 291 "lib.h"
+# 296 "lib.h"
 void loadSpritePalette(const unsigned short* palette);
 
 

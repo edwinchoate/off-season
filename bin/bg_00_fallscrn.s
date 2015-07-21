@@ -83,28 +83,28 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -113,30 +113,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -145,29 +145,29 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	-29835
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	-29835
+	.short	-29045
+	.short	-29810
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29045
+	.short	-29810
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -177,30 +177,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -209,27 +209,27 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -241,29 +241,29 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -273,30 +273,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -305,30 +305,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30069
+	.short	-29045
+	.short	-29042
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -337,30 +337,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30069
+	.short	-29045
+	.short	-29810
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -369,30 +369,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -401,30 +401,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30069
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -433,28 +433,28 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	-29835
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -466,28 +466,28 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	30069
+	.short	-29042
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	30069
+	.short	-29042
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30069
-	.short	30069
+	.short	-29042
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -498,29 +498,29 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	30069
+	.short	-29042
+	.short	-29042
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -530,28 +530,28 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	30069
+	.short	-29042
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
 	.short	-29813
-	.short	30069
-	.short	30069
+	.short	-29042
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -561,30 +561,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30091
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29045
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -603,28 +603,28 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -633,30 +633,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -665,29 +665,29 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	-29835
+	.short	-29810
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	-29835
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -697,29 +697,29 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	30091
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29045
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -729,30 +729,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
-	.short	30069
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
+	.short	-29042
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -761,29 +761,29 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30091
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29045
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -793,30 +793,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -825,27 +825,27 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -857,29 +857,29 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -890,28 +890,28 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	30069
+	.short	-29042
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
 	.short	-29813
-	.short	30069
-	.short	30069
+	.short	-29042
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -923,28 +923,28 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -953,30 +953,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30069
+	.short	-29045
+	.short	-29042
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30069
+	.short	-29045
+	.short	-29042
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -985,29 +985,29 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1017,30 +1017,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1049,27 +1049,27 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	-29835
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	-29835
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	-29835
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	-29835
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	-29835
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1081,30 +1081,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
+	.short	-29045
+	.short	-29810
+	.short	-29045
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1113,30 +1113,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30069
+	.short	-29045
+	.short	-29042
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
-	.short	30069
-	.short	-29835
+	.short	-29045
+	.short	-29042
+	.short	-29042
+	.short	-29810
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1147,28 +1147,28 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1179,28 +1179,28 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29810
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1209,30 +1209,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
+	.short	-29042
+	.short	-29810
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	-29835
-	.short	30069
-	.short	-29835
+	.short	-29810
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1241,30 +1241,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	30069
-	.short	30091
-	.short	-29835
-	.short	30091
-	.short	-29835
-	.short	30069
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29042
+	.short	-29045
+	.short	-29810
+	.short	-29045
+	.short	-29810
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	-29835
+	.short	-29045
+	.short	-29810
+	.short	-29810
 	.short	-29813
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1273,30 +1273,30 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	-29835
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30069
+	.short	-29045
+	.short	-29810
+	.short	-29042
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
+	.short	-29045
+	.short	-29810
 	.short	-29813
 	.short	-29813
-	.short	30091
-	.short	-29835
-	.short	30069
-	.short	-29835
-	.short	30091
-	.short	30069
+	.short	-29045
+	.short	-29810
+	.short	-29042
+	.short	-29810
+	.short	-29045
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1308,27 +1308,27 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
-	.short	-29835
+	.short	-29042
+	.short	-29810
 	.short	-29813
-	.short	30091
+	.short	-29045
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1337,19 +1337,19 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813
@@ -1357,7 +1357,7 @@ bg_00_fallscrnTiles:
 	.short	-29813
 	.short	-29813
 	.short	-29813
-	.short	30069
+	.short	-29042
 	.short	-29813
 	.short	-29813
 	.short	-29813

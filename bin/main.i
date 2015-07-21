@@ -68,7 +68,7 @@ typedef struct {
 typedef struct {
  unsigned short tilemap[1024];
 } screenblock;
-# 291 "lib.h"
+# 296 "lib.h"
 void loadSpritePalette(const unsigned short* palette);
 
 
@@ -1135,7 +1135,7 @@ int main() {
 
   shadowOAM[0].attr0 = (0xFF & player.row) | (0 << 14);
   shadowOAM[0].attr1 = (0x1FF & player.col) | (1 << 14) | ((1 << 12) & (player.facing << 12));
-  shadowOAM[0].attr2 = ((season * 2)*32+(player.currentFrame * 2)) | (1 << 10);
+  shadowOAM[0].attr2 = ((season * 2)*32+(player.currentFrame * 2)) | (2 << 10);
 
 
   shadowOAM[1].attr0 = (0xFF & icon.row) | (0 << 14);
@@ -1170,7 +1170,7 @@ void init() {
 
 
  loadSpritePalette(sprite_actorPal);
- DMANow(3, sprite_actorTiles, &((charblock *)0x6000000)[4], 32768);
+ DMANow(3, sprite_actorTiles, &((charblock *)0x6000000)[4], 32768 / 2);
 
 
  loadPalette(pause_screenPal);
@@ -1657,7 +1657,7 @@ void playSoundA( const unsigned char* sound, int length, int frequency, int isLo
 
         int interval = 16777216/frequency;
 
-        DMANow(1, sound, 0x040000A0, (2 << 21) | (3 << 28) | (1 << 25) | (1 << 26));
+        DMANow(1, sound, (volatile void *)0x040000A0, (2 << 21) | (3 << 28) | (1 << 25) | (1 << 26));
 
         *(volatile unsigned short *)0x4000102 = 0;
 
@@ -1679,7 +1679,7 @@ void playSoundB( const unsigned char* sound, int length, int frequency, int isLo
 
         int interval = 16777216/frequency;
 
-        DMANow(2, sound, 0x040000A4, (2 << 21) | (3 << 28) | (1 << 25) | (1 << 26));
+        DMANow(2, sound, (volatile void *)0x040000A4, (2 << 21) | (3 << 28) | (1 << 25) | (1 << 26));
 
         *(volatile unsigned short *)0x4000106 = 0;
 

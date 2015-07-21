@@ -260,19 +260,19 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -289,22 +289,22 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -321,18 +321,18 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -353,20 +353,20 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	908
-	.short	908
-	.short	771
+	.short	-28788
+	.short	-28788
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -385,20 +385,20 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
+	.short	-28788
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -514,20 +514,20 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -546,21 +546,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -580,19 +580,19 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -609,22 +609,22 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -642,21 +642,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	771
-	.short	771
+	.short	-29553
+	.short	-28785
+	.short	-28785
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -673,22 +673,22 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	908
-	.short	771
+	.short	-28785
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
+	.short	-28785
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -706,21 +706,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	-29693
-	.short	771
+	.short	-28785
+	.short	-29553
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -737,22 +737,22 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	908
-	.short	771
+	.short	-28785
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -769,16 +769,16 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -788,11 +788,11 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -810,21 +810,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -842,21 +842,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -874,21 +874,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	-29693
-	.short	771
-	.short	771
+	.short	-29553
+	.short	-28785
+	.short	-28785
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -906,21 +906,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	771
-	.short	-29693
+	.short	-29553
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -938,19 +938,19 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	908
-	.short	771
+	.short	-28785
+	.short	-28788
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -970,13 +970,13 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1002,11 +1002,11 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	19789
@@ -1036,7 +1036,7 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1065,21 +1065,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	-29693
-	.short	771
+	.short	-29553
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1098,21 +1098,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1130,21 +1130,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	908
-	.short	771
+	.short	-28785
+	.short	-28788
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1162,21 +1162,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	771
-	.short	-29693
+	.short	-29553
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1194,21 +1194,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1233,14 +1233,14 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1258,21 +1258,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1290,21 +1290,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1322,19 +1322,19 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1355,28 +1355,28 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1394,21 +1394,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1426,21 +1426,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1458,21 +1458,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1490,21 +1490,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
-	.short	771
+	.short	-28785
+	.short	-29553
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	771
-	.short	771
+	.short	-29553
+	.short	-28785
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1536,7 +1536,7 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
+	.short	-28788
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1553,22 +1553,22 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	-29693
-	.short	771
+	.short	-29553
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	-29693
-	.short	771
-	.short	-29693
+	.short	-29553
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1585,20 +1585,20 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	-29693
-	.short	771
+	.short	-29553
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
+	.short	-28788
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1618,21 +1618,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	771
-	.short	771
+	.short	-28785
+	.short	-28785
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	-29693
-	.short	771
+	.short	-29553
+	.short	-29553
+	.short	-28785
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	-29693
+	.short	-29553
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1651,20 +1651,20 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1682,21 +1682,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	-29693
-	.short	908
-	.short	771
+	.short	-29553
+	.short	-28788
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1714,13 +1714,13 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	908
-	.short	771
-	.short	-29693
+	.short	-28788
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1746,21 +1746,21 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-28785
+	.short	-29553
 	.short	-29556
-	.short	771
-	.short	908
+	.short	-28785
+	.short	-28788
 	.short	-29556
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
-	.short	771
+	.short	-28785
 	.short	-29556
 	.short	-29556
 	.short	-29556
@@ -1779,20 +1779,20 @@ bg_00_summerscrnTiles:
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
 	.short	-29556
-	.short	771
-	.short	-29693
+	.short	-28785
+	.short	-29553
 	.short	-29556
 	.short	-29556
 	.short	-29556

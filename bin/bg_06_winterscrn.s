@@ -49,38 +49,38 @@ bg_06_winterscrnTiles:
 	.short	0
 	.short	0
 	.short	0
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
 	.short	-30584
 	.short	-30584
 	.short	-30584
@@ -145,38 +145,38 @@ bg_06_winterscrnTiles:
 	.short	-30615
 	.short	27016
 	.short	-30706
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
-	.short	19532
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
+	.short	19018
 	.short	27272
 	.short	26985
 	.short	26985

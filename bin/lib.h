@@ -285,6 +285,11 @@ SPRITES
 #define ATTR1_SIZE32 (2 << 14)
 #define ATTR1_SIZE64 (3 << 14)
 
+#define ATTR2_PRIORITY0 (0 << 10)
+#define ATTR2_PRIORITY1 (1 << 10)
+#define ATTR2_PRIORITY2 (2 << 10)
+#define ATTR2_PRIORITY3 (3 << 10)
+
 #define OAM ((OBJ_ATTR*)(0x7000000))
 #define SPRITE_PALETTE ((unsigned short*)(0x5000200))
 

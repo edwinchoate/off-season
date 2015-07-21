@@ -1,4 +1,4 @@
-#include "lib.h"
+	#include "lib.h"
 #include "sprite_actor.h"
 #include "splash_screen.h"
 #include "instructions.h"
@@ -328,7 +328,7 @@ int main() {
 		// Player Sprite
 		shadowOAM[0].attr0 = (ROWMASK & player.row) | ATTR0_SQUARE;
 		shadowOAM[0].attr1 = (COLMASK & player.col) | ATTR1_SIZE16 | (ATTR1_HFLIP & (player.facing << 12));
-		shadowOAM[0].attr2 = (SPRITEOFFSET16(season * 2, player.currentFrame * 2)) | (1 << 10);	// Priority 1
+		shadowOAM[0].attr2 = (SPRITEOFFSET16(season * 2, player.currentFrame * 2)) | ATTR2_PRIORITY2;	
 
 		// Season Icon Sprite
 		shadowOAM[1].attr0 = (ROWMASK & icon.row) | ATTR0_SQUARE;
@@ -363,7 +363,7 @@ void init() {
 
 	// Put Sprite on Screen
 	loadSpritePalette(sprite_actorPal);
-	DMANow(3, sprite_actorTiles, &CHARBLOCKBASE[4], sprite_actorTilesLen);
+	DMANow(3, sprite_actorTiles, &CHARBLOCKBASE[4], sprite_actorTilesLen / 2);
 
 	// DMA background 0
 	loadPalette(pause_screenPal);
@@ -858,7 +858,7 @@ void playSoundA( const unsigned char* sound, int length, int frequency, int isLo
     
         int interval = 16777216/frequency;
     
-        DMANow(1, sound, REG_FIFO_A, DMA_DESTINATION_FIXED | DMA_AT_REFRESH | DMA_REPEAT | DMA_32);
+        DMANow(1, sound, (volatile void *)REG_FIFO_A, DMA_DESTINATION_FIXED | DMA_AT_REFRESH | DMA_REPEAT | DMA_32);
     
         REG_TM0CNT = 0;
     
@@ -880,7 +880,7 @@ void playSoundB( const unsigned char* sound, int length, int frequency, int isLo
 
         int interval = 16777216/frequency;
 
-        DMANow(2, sound, REG_FIFO_B, DMA_DESTINATION_FIXED | DMA_AT_REFRESH | DMA_REPEAT | DMA_32);
+        DMANow(2, sound, (volatile void *)REG_FIFO_B, DMA_DESTINATION_FIXED | DMA_AT_REFRESH | DMA_REPEAT | DMA_32);
 
         REG_TM1CNT = 0;
     

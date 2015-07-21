@@ -49,38 +49,38 @@ bg_05_winterscrnTiles:
 	.short	0
 	.short	0
 	.short	0
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
 	.type	bg_05_winterscrnMap, %object
 	.size	bg_05_winterscrnMap, 4096
 bg_05_winterscrnMap:
@@ -2276,9 +2276,9 @@ bg_05_winterscrnPal:
 	.short	32659
 	.short	30360
 	.short	17374
-	.short	32695
-	.short	31450
-	.short	18431
+	.short	28401
+	.short	25108
+	.short	13113
 	.short	0
 	.short	0
 	.short	0

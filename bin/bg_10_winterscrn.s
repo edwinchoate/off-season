@@ -49,38 +49,38 @@ bg_10_winterscrnTiles:
 	.short	0
 	.short	0
 	.short	0
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
 	.short	-30584
 	.short	-30584
 	.short	-30584
@@ -209,134 +209,134 @@ bg_10_winterscrnTiles:
 	.short	-30584
 	.short	-30584
 	.short	-30584
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-5495
-	.short	-30327
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	-5555
+	.short	19789
+	.short	19789
+	.short	19789
 	.short	25578
-	.short	-30327
-	.short	-30327
-	.short	-5495
+	.short	19789
+	.short	19789
+	.short	-5555
 	.short	25370
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
 	.short	6890
 	.short	25372
-	.short	-30327
-	.short	-5495
+	.short	19789
+	.short	-5555
 	.short	7194
 	.short	25372
-	.short	-30327
+	.short	19789
 	.short	6890
 	.short	6682
 	.short	6682
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30230
-	.short	-30327
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19946
+	.short	19789
+	.short	19789
+	.short	19789
 	.short	-5593
-	.short	-30327
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
+	.short	19789
 	.short	10007
-	.short	-30230
-	.short	-30327
-	.short	-30327
+	.short	19946
+	.short	19789
+	.short	19789
 	.short	21783
 	.short	-5593
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
 	.short	21783
 	.short	10069
-	.short	-30230
-	.short	-30327
+	.short	19946
+	.short	19789
 	.short	5911
 	.short	5911
 	.short	-5593
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
 	.short	8682
 	.short	21845
 	.short	21845
-	.short	-30327
-	.short	-5495
+	.short	19789
+	.short	-5555
 	.short	-32479
 	.short	21889
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
 	.short	8682
 	.short	21889
-	.short	-30327
-	.short	-30327
-	.short	-5495
+	.short	19789
+	.short	19789
+	.short	-5555
 	.short	21793
-	.short	-30327
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
+	.short	19789
 	.short	8682
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-5495
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	-5555
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
 	.short	16171
 	.short	16191
 	.short	-5569
-	.short	-30327
+	.short	19789
 	.short	27691
 	.short	16236
-	.short	-30230
-	.short	-30327
+	.short	19946
+	.short	19789
 	.short	27691
 	.short	-5569
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
 	.short	16171
-	.short	-30230
-	.short	-30327
-	.short	-30327
+	.short	19946
+	.short	19789
+	.short	19789
 	.short	-5589
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30230
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
-	.short	-30327
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19946
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
+	.short	19789
 	.short	20298
 	.short	20303
 	.short	20303
@@ -2660,9 +2660,9 @@ bg_10_winterscrnPal:
 	.short	32659
 	.short	30360
 	.short	17374
-	.short	32695
-	.short	31450
-	.short	18431
+	.short	28401
+	.short	25108
+	.short	13113
 	.short	0
 	.short	0
 	.short	0

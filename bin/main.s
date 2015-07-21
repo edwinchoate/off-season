@@ -37,7 +37,7 @@ init:
 	ldr	r4, .L5+8
 	ldr	r1, .L5+12
 	add	r2, r2, #65536
-	mov	r3, #32768
+	mov	r3, #16384
 	mov	r0, #3
 	mov	lr, pc
 	bx	r4
@@ -4653,7 +4653,7 @@ main:
 	mov	r9, r9, asl #23
 	ldr	ip, [sp, #4]
 	orr	r9, r0, r9, lsr #23
-	orr	fp, r1, #1024
+	orr	fp, r1, #2048
 	strh	r9, [r5, #2]	@ movhi
 	strh	ip, [r6, #20]	@ movhi
 	ldr	ip, [sp, #28]

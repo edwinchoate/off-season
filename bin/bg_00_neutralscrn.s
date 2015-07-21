@@ -85,32 +85,32 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18313
-	.short	18247
+	.short	19532
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	19532
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -118,83 +118,83 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18313
+	.short	19593
+	.short	19532
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	-30393
+	.short	19593
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	-30393
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	-30393
+	.short	19593
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	-30393
+	.short	19593
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -204,75 +204,75 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	-30393
+	.short	19593
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	-30393
+	.short	19593
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	-30393
+	.short	19593
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18313
+	.short	19593
+	.short	19532
+	.short	19593
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18313
+	.short	19593
+	.short	19532
+	.short	19593
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -293,15 +293,15 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -408,11 +408,11 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -437,66 +437,66 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -521,13 +521,13 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -554,13 +554,13 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -585,16 +585,16 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -617,17 +617,17 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	-30393
-	.short	18247
+	.short	-30388
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -650,17 +650,17 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -681,17 +681,17 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -714,16 +714,16 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -745,18 +745,18 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -777,14 +777,14 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -809,12 +809,12 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
-	.short	18313
+	.short	-30388
+	.short	19593
 	.short	-30327
 	.short	-30327
-	.short	-30393
-	.short	18313
+	.short	-30388
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -841,14 +841,14 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	19789
 	.short	19789
 	.short	19789
@@ -873,13 +873,13 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -907,12 +907,12 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -937,16 +937,16 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -969,17 +969,17 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1001,13 +1001,13 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1034,13 +1034,13 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1065,14 +1065,14 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	-30393
-	.short	18247
+	.short	-30388
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1098,12 +1098,12 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1130,36 +1130,36 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1170,29 +1170,29 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1201,29 +1201,29 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1233,30 +1233,30 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	-30393
-	.short	18247
-	.short	18247
+	.short	-30388
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	-30393
-	.short	18247
-	.short	18247
+	.short	-30388
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	-30393
-	.short	18247
-	.short	18247
+	.short	-30388
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1265,29 +1265,29 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18313
-	.short	18247
+	.short	19532
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1297,30 +1297,30 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	-30388
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1330,29 +1330,29 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1381,7 +1381,7 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1394,28 +1394,28 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1426,27 +1426,27 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
+	.short	19593
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1457,30 +1457,30 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
-	.short	18247
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
+	.short	19532
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1493,8 +1493,8 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1509,9 +1509,9 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1523,28 +1523,28 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1556,27 +1556,27 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1585,29 +1585,29 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1617,30 +1617,30 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18247
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	19532
+	.short	-30388
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1650,29 +1650,29 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
-	.short	18247
+	.short	19532
 	.short	-30327
-	.short	18313
-	.short	18247
-	.short	18247
+	.short	19593
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1683,28 +1683,28 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18247
+	.short	19532
+	.short	-30388
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18247
+	.short	19532
+	.short	-30388
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	-30393
-	.short	18247
+	.short	19532
+	.short	-30388
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	-30393
+	.short	19532
+	.short	-30388
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1713,30 +1713,30 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18313
-	.short	18247
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18313
-	.short	18247
+	.short	19532
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	18247
-	.short	18313
-	.short	18247
+	.short	19532
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	-30393
-	.short	18313
-	.short	18247
+	.short	-30388
+	.short	19593
+	.short	19532
 	.short	-30327
-	.short	-30393
-	.short	18247
+	.short	-30388
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	-30393
+	.short	-30388
 	.short	-30327
 	.short	-30327
 	.short	-30327
@@ -1746,28 +1746,28 @@ bg_00_neutralscrnTiles:
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
 	.short	-30327
-	.short	18247
-	.short	18247
+	.short	19532
+	.short	19532
 	.short	-30327
 	.short	-30327
 	.short	-30327

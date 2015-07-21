@@ -87,28 +87,28 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -117,29 +117,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -149,30 +149,30 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -181,30 +181,30 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -213,29 +213,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27786
+	.short	-29299
+	.short	-29302
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27786
-	.short	-30100
+	.short	-29299
+	.short	-29302
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -245,30 +245,30 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -277,29 +277,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27786
-	.short	27756
+	.short	-29299
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -309,30 +309,30 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -341,30 +341,30 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	-30100
+	.short	-30067
+	.short	-29302
+	.short	-30067
 	.short	-30070
-	.short	-30100
-	.short	27786
+	.short	-30067
+	.short	-29302
 	.short	-30070
 	.short	-30070
-	.short	-30100
-	.short	27786
+	.short	-30067
+	.short	-29302
 	.short	-30070
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -373,27 +373,27 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -405,29 +405,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -437,29 +437,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
-	.short	27756
-	.short	27786
-	.short	27786
+	.short	-29299
+	.short	-29302
+	.short	-29302
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	27786
+	.short	-29302
+	.short	-29299
+	.short	-29302
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -469,29 +469,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -501,29 +501,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -533,29 +533,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
-	.short	27786
+	.short	-29299
+	.short	-29302
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -565,29 +565,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -599,28 +599,28 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
 	.short	-30070
-	.short	-30100
-	.short	27786
+	.short	-30067
+	.short	-29302
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -629,29 +629,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -661,30 +661,30 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	27756
+	.short	-29302
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -693,29 +693,29 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	-30100
-	.short	27756
+	.short	-30067
+	.short	-30067
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27786
-	.short	-30100
+	.short	-29299
+	.short	-29302
+	.short	-30067
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -725,27 +725,27 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -776,15 +776,15 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -806,17 +806,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	-30100
-	.short	27756
+	.short	-29299
+	.short	-30067
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -837,16 +837,16 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -870,14 +870,14 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27786
-	.short	-30100
+	.short	-29299
+	.short	-29302
+	.short	-30067
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -901,15 +901,15 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -934,17 +934,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -966,17 +966,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -998,17 +998,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1030,17 +1030,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1062,17 +1062,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	-30100
-	.short	27756
+	.short	-29299
+	.short	-30067
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1091,15 +1091,15 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1128,15 +1128,15 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1157,18 +1157,18 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1192,15 +1192,15 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1221,16 +1221,16 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
-	.short	27786
-	.short	27756
+	.short	-29299
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1253,18 +1253,18 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1285,18 +1285,18 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1317,18 +1317,18 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1350,17 +1350,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27786
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1381,16 +1381,16 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1413,30 +1413,30 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1457,18 +1457,18 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27786
-	.short	27756
+	.short	-29299
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1492,15 +1492,15 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1521,16 +1521,16 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1553,15 +1553,15 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1587,16 +1587,16 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1618,17 +1618,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1650,17 +1650,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1682,17 +1682,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27786
-	.short	27756
-	.short	-30100
+	.short	-29302
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1714,17 +1714,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
-	.short	27756
-	.short	27756
+	.short	-30067
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	-30100
-	.short	27786
-	.short	27756
+	.short	-30067
+	.short	-29302
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1748,15 +1748,15 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1777,18 +1777,18 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1812,15 +1812,15 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
-	.short	27756
-	.short	27756
+	.short	-30067
+	.short	-29299
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1841,16 +1841,16 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1873,18 +1873,18 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	27756
+	.short	-29299
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1905,18 +1905,18 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1938,17 +1938,17 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27756
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -1969,18 +1969,18 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
-	.short	-30100
-	.short	27786
+	.short	-30067
+	.short	-29302
 	.short	-30070
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -2001,18 +2001,18 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	-30100
-	.short	27756
+	.short	-30067
+	.short	-29299
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	-30100
+	.short	-30067
 	.short	-30070
-	.short	27756
+	.short	-29299
 	.short	-30070
-	.short	27786
+	.short	-29302
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -2033,16 +2033,16 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27786
-	.short	27756
+	.short	-29302
+	.short	-29299
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
@@ -2065,16 +2065,16 @@ bg_00_springscrnTiles:
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
 	.short	-30070
 	.short	-30070
 	.short	-30070
-	.short	27756
-	.short	-30100
+	.short	-29299
+	.short	-30067
 	.short	-30070
 	.short	-30070
 	.short	-30070
