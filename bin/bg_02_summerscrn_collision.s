@@ -7,6 +7,7 @@
 	.eabi_attribute 25, 1
 	.eabi_attribute 26, 1
 	.eabi_attribute 30, 2
+	.eabi_attribute 34, 0
 	.eabi_attribute 18, 4
 	.file	"bg_02_summerscrn_collision.c"
 	.global	bg_02_summerscrn_collisionBitmap
@@ -131087,4 +131088,4 @@ bg_02_summerscrn_collisionBitmap:
 	.short	17374
 	.short	17374
 	.short	17374
-	.ident	"GCC: (devkitARM release 31) 4.5.0"
+	.ident	"GCC: (devkitARM release 44) 4.9.2"

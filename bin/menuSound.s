@@ -7,6 +7,7 @@
 	.eabi_attribute 25, 1
 	.eabi_attribute 26, 1
 	.eabi_attribute 30, 2
+	.eabi_attribute 34, 0
 	.eabi_attribute 18, 4
 	.file	"menuSound.c"
 	.global	menuSound
@@ -2117,4 +2118,4 @@ menuSound:
 	.byte	-2
 	.byte	-2
 	.byte	-1
-	.ident	"GCC: (devkitARM release 31) 4.5.0"
+	.ident	"GCC: (devkitARM release 44) 4.9.2"
