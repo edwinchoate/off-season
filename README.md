@@ -1,7 +1,7 @@
 # Off Season
 A nostalgic 8-bit game for GameBoy Advance.
 
-<p align="center"><img src="http://i.imgur.com/fcYS5SX.png"></p>
+<p align="center"><img width="300px" src="https://raw.githubusercontent.com/edwinchoate/OffSeason/master/assets/cover_art.jpg"></p>
 
 > Download
 
@@ -26,4 +26,4 @@ I strongly recommend using **OpenEmu**. You can find it at [openemu.org](http://
 | &larr; | Move left | 
 | &rarr; | Move right |
 | START | Pause |
-| L+R+SELECT | Active cheat mode (at start of level) |
+| L+R+SELECT | Active cheat mode at start of level (PC only) |
