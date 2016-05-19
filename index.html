@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html>
+    
+    <head>
+        <title>Off Season</title>
+        
+        <link rel="stylesheet" href="css/font-awesome-4.6.3/css/font-awesome.min.css">
+        <link rel="icon" href="img/favicon.png">
+        
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+        
+
+    </head>
+    
+    <body>
+
+    <!-- override default styles -->
+    <style>
+      html, body {
+        background-color: #9CE6FF !important;
+        background-image: none !important;
+      }
+      .padded {
+        padding: 64px 8px 64px 8px;
+      }
+      .text-orange, .text-orange:hover {
+        color: #e65f22 !important;
+      }
+      .off-season-page .text-black {
+        color: black !important;
+      }
+    </style>
+
+    <!-- off season page wrapper -->
+    <div class="off-season-page">
+
+      <!-- header image -->
+      <div class="row">
+        <img alt="off season thumbnail" class="padded img-responsive col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-12" src="./img/offseason_header.png">
+      </div>
+
+      <!-- green platform -->
+      <div class="row">
+        <img alt="green platform" class="padded margin-top-responsive img-responsive col-sm-6 hidden-xs" src="./img/platform_spring.png">
+      </div>
+
+      <!-- orange platform -->
+      <div class="row">
+        <img alt="orange platform" class="padded img-responsive col-sm-6 col-sm-offset-6 hidden-xs" src="./img/platform_fall.png">
+      </div>
+
+      <!-- YouTube trailer -->
+      <div class="row">
+        <div class="margin-top-responsive embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sHuY5Xs_Qag?color=white&autohide=1&rel=0&theme=light&playsinline=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+
+      <!-- yellow platform -->
+      <div class="row">
+        <img alt="yellow platform" class="padded margin-top-responsive img-responsive col-sm-6 col-sm-offset-6 hidden-xs" src="./img/platform_summer.png">
+      </div>
+
+      <!-- ice platform -->
+      <div class="row">
+        <img alt="light blue platform" class="padded img-responsive col-sm-6 hidden-xs" src="./img/platform_winter.png">
+      </div>
+
+
+      <div class="row">
+          <!-- Game download header text  -->
+          <div class="margin-top-responsive col-xs-12">
+              <h2 class="text-center text-black">Get the Game!</h2>
+          </div>
+          <!-- Game download button -->
+          <div class="col-sm-4 col-sm-offset-4 col-xs-12">
+              <a href="https://github.com/edwinchoate/off_season/blob/master/OffSeason.zip?raw=true">
+                <button id="offseason-button" class="center-block text-black">
+                  <i class="fa fa-download"></i> Download
+                </button>
+              </a>
+          </div>
+      </div>
+
+      <div class="row">
+          <!-- Emulator header text  -->
+          <h2 class="text-center text-black">Grab an Emulator!</h2>
+          <div class="col-sm-2 col-sm-offset-4 col-xs-4 col-xs-offset-2 text-center text-black">
+              <!-- Windows font-awesome logo -->
+              <i class="fa fa-windows fa-4x os-logo"></i>
+          </div>
+          <div class="col-sm-2 col-xs-4 text-center text-black">
+              <!-- Apple font-awesome logo -->
+              <i class="fa fa-apple fa-4x os-logo"></i>
+          </div>
+      </div>
+
+      <div class="row">
+          <div class="col-sm-2 col-sm-offset-4 col-xs-5 col-xs-offset-1">
+              <!-- Visual   Boy Advance download button -->
+              <a href="https://github.com/edwinchoate/off_season/blob/master/VisualBoyAdvance-1.8.0-beta3.zip?raw=true">
+                <button class="center-block text-black"><i class="fa fa-download"></i> VisualBoy</button>
+              </a>
+          </div>
+          <div class="col-sm-2 col-xs-5">
+              <!-- OpenEmu download button -->
+              <a href="https://github.com/edwinchoate/off_season/blob/master/OpenEmu_1.0.4.zip?raw=true">
+                <button class="center-block text-black"><i class="fa fa-download"></i> OpenEmu</button>
+              </a>
+          </div>
+      </div>
+
+      <div class="row">
+        <a class="col-sm-4 col-sm-offset-4 col-xs-12 text-center" href="http://www.urbandictionary.com/define.php?term=Emulator" target="_blank" style="margin-top: 12px;">
+          <p class="text-orange">Wait... what's an emulator?</p>
+        </a>
+      </div>
+
+      <!-- Explanation of game -->
+      <div class="row">
+          <div class="text-black padded margin-top-responsive col-sm-6 col-sm-offset-3 col-xs-12"><p class="text-black">Off Season is a nostalgic 8-bit puzzle game full of exploration and challenge.
+            Programmed in C, Off Season is for the <a href="https://en.wikipedia.org/wiki/Game_Boy_Advance">GameBoy Advance</a> platform.
+            I built the Off Season world from the ground up, doing everything from character design, visual design, and game design to in-game
+            physics and gameplay. You can play it with a GameBoy Advance emulator like
+            <a href="http://sourceforge.net/projects/vba/">VisualBoy Advance</a>,
+            <a href="http://www.bannister.org/software/ba.htm">Boycott Advance</a>, or <a href="http://openemu.org/">OpenEmu</a>.
+            Off Season was inspired in part by <a href="http://www.zelda.com/oracle/#body-seasons">Legend of Zelda Oracle of Seasons</a>
+            and <a href="http://fezgame.com/">Fez</a>. </p>
+              <p><a href="https://github.com/edwinchoate/off_season">Off Season on Github <i class="fa fa-code-fork"></i></a></p>
+          </div>
+      </div>
+    </div>
+    
+</body>
+    
+</html>
